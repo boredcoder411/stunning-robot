@@ -1,3 +1,4 @@
+#! /home/dev/.config/nvm/versions/node/v20.5.0/bin/node
 const fs = require('fs');
 const path = require('path');
 
